@@ -1,0 +1,20 @@
+{
+    "usuarios" : [
+        {
+            "nombre": "Anita Lopez",
+            "correo": "anita@hotmail.com",
+            "pais": "Bolivia"
+        },
+        {
+            "nombre": "Pablo Perez",
+            "correo": "pablo1323@gmail.com",
+            "pais": "Argentina"
+        },
+        {
+            "nombre": "Juan Hernandez",
+            "correo": "juan101010@gmail.com",
+            "pais": "Brasil"
+        }
+       
+    ]
+}

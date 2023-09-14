@@ -1,0 +1,30 @@
+{
+    "personas" : [
+        {
+            "nombre": "Anita Lopez",
+            "edad":23,
+            "Ciudad": "La Paz"
+        },
+        {
+            "nombre": "Pablo Perez",
+            "edad":43,
+            "Ciudad": "La Paz"
+        },
+        {
+            "nombre": "Juan Hernandez",
+            "edad":26,
+            "Ciudad": "El Alto"
+        },
+        {
+            "nombre": "Pablo Ramirez",
+            "edad":21,
+            "Ciudad": "Oruro"
+        },
+        {
+            "nombre": "Juan Fernadez",
+            "edad":63,
+            "Ciudad": "Cochabamba"
+        }
+
+    ]
+}
