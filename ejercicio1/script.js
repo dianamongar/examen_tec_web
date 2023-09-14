@@ -8,10 +8,10 @@ let usuarios = document.getElementById("usuarios");
           "<li class='list-group-item'> <h3>" +
           item.nombre +
           "</h3></li>" +
-          "<li class='list-group-item'>Correo: " +
+          "<li class='list-group-item'><b>Correo electrónico</b>: " +
           item.correo +
           "</li>" +
-          "<li class='list-group-item'>País: " +
+          "<li class='list-group-item'><b>País de origen</b>: " +
           item.pais +
           "</li>"+
           "</ul>"+"<br/>";
